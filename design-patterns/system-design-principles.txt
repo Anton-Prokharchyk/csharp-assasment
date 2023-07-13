@@ -1,0 +1,13 @@
+OOP design principles:
+
+1. Programming on interface level rather then implementation.
+2. Encapsulate what changes. Separate pieces of the app which could change from constant parts.
+3. Prefer composition over inheritance.
+4. High cohesion and low coupling.
+5. Classes should be open to exstensions and close to modifications.
+
+OOP design patterns:
+
+1. Strategy
+2. Observer
+3. Decorator
